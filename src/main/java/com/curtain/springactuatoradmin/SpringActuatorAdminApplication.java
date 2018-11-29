@@ -17,7 +17,7 @@ import org.springframework.security.web.authentication.SavedRequestAwareAuthenti
 @Configuration
 @EnableAutoConfiguration
 @EnableAdminServer
-@EnableDiscoveryClient
+//@EnableDiscoveryClient
 @SpringBootApplication
 public class SpringActuatorAdminApplication {
 
